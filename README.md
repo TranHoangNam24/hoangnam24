@@ -1,4 +1,5 @@
 # Hồ sơ cá nhân
+<img src="avt.jpg" width="150" height="170">
 
 ## Thông tin liên lạc
 - **Họ và tên:** Trần Hoàng Nam
